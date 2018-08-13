@@ -4,7 +4,7 @@ Steps to Install and run in new environment
     Command: `git clone https://github.com/ganesh35palkar/Weather.git`
 
 2: Move To Folder Code
-    Command cd `Weather`
+    Command `cd Weather`
 
 3: Install pip
     Command: `sudo apt-get install python-pip`
